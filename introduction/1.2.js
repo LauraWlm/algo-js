@@ -2,5 +2,5 @@
 let firstName = "Laura";
 let name = "Wlm";
 let city = "Charleroi";
-console.log("Mon nom est" + firstName + name);
-console.log("et je vis à" + city);
+console.log("Mon nom est " + firstName +" " + name);
+console.log("et je vis à " + city);
