@@ -6,8 +6,8 @@ Algorithmics is the very base of the developer job. We will learn it with the Ja
 
 At the end of this training we will have mastered the following aspect of JavaScript:
 
-Variables
-Operators
-Arrays
-Control Structures
-Functions
+- Variables
+- Operators
+- Arrays
+- Control Structures
+- Functions
