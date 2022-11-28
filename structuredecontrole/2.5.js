@@ -1,6 +1,6 @@
 let number = prompt("What's your favorite number?");
 
-while (number !== 42) {
+while (number !== "42") {
     console.log("Are you sure?");
     number = prompt("What's your favorite number?");
 }
