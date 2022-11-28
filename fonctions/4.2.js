@@ -1,4 +1,5 @@
-var min=1; 
-var max=10;  
-var random = Math.floor(Math.random() * (max - min)) + min; 
-console.log(random);
+function rand10()
+{
+    return Math.floor(Math.random() * 10) + 1;
+}
+    console.log(rand10());
